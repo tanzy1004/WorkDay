@@ -11,3 +11,9 @@ https://tojohnonly.github.io/15-CentOS%E5%BC%80%E5%90%AF,%E5%85%B3%E9%97%AD,%E6%
 
 # Redhat sendmail Doc
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/s2-email-mta-sendmail
+
+# Route 原理
+https://zhuanlan.zhihu.com/p/98516062
+
+https://alexspring123.github.io/2019/01/21/201901/angular%E8%B7%AF%E7%94%B1%E7%9A%84%E5%AF%BC%E8%88%AA%E5%91%A8%E6%9C%9F/
+
